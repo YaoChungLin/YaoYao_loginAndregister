@@ -1,0 +1,4 @@
+com\yaoyao\sso\pojo\User.class
+com\yaoyao\sso\service\UserService.class
+com\yaoyao\sso\mapper\UserMapper.class
+com\yaoyao\sso\controller\UserController.class
